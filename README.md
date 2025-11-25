@@ -22,7 +22,7 @@ Description de notre commit des informations sur l'évaluation du projet
 
 ```
 git add .
-git commit -m "Titre du commit"
+git commit -m "Commentaire"
 git push origin main
 
 ```
