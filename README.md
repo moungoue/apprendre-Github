@@ -18,3 +18,11 @@ Titre du commit
 Description de notre commit des informations sur l'évaluation du projet
 
 ```
+## Envoyer un commit sur le dépot distant
+
+```
+git add .
+git commit -m "Titre du commit"
+git push origin main
+
+```
